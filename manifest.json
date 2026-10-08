@@ -1,7 +1,7 @@
 {
-  "name": "AI Institution - Madrasa School College OS",
+  "name": "AI Institution - Madrasa Management OS",
   "short_name": "AI Institution",
-  "description": "All-in-One Madrasa School College Management with Fest, Quran Tajweed, Attendance, ID Cards",
+  "description": "Full Madrasa School College Management - Students, Teachers, Fest Hub, Quran Tajweed, Attendance, PWA",
   "start_url": "index.html",
   "display": "standalone",
   "orientation": "any",
