@@ -1,4 +1,3 @@
-// AI Institution - LIVE
 export const firebaseConfig = {
   apiKey: "AIzaSyDG7EXFwkjXZlJwMHJqcgJXSZi2NEUxqoc",
   authDomain: "ai-institution.firebaseapp.com",
