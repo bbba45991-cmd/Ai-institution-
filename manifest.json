@@ -1,12 +1,11 @@
 {
-  "name": "AI Institution - Madrasa Management OS",
+  "name": "AI Institution V11.2.7 Habeebi Final - Usthad Mobile UsernamePassword Blank Fix Program Select",
   "short_name": "AI Institution",
-  "description": "Full Madrasa School College Management - Students, Teachers, Fest Hub, Quran Tajweed, Attendance, PWA",
+  "description": "V11.2.7 exact base + Usthad Add Remove visible + Mobile Bottom Nav App like + Desktop Sidebar + Username Password for Judges Fest Control Fest Manager Main Stage Manager not Parents PTA Management + Blank Black Bad URL hash fix cdn.fbsbx + Program Select fix + Photo compress",
   "start_url": "index.html",
   "display": "standalone",
-  "orientation": "any",
   "theme_color": "#059669",
-  "background_color": "#f0fdf4",
+  "background_color": "#ffffff",
   "icons": [
     {
       "src": "assets/icon-192.png",
