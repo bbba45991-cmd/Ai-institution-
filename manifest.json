@@ -1,11 +1,11 @@
 {
-  "name": "AI Institution V11.2.7 Habeebi Final - Usthad Mobile UsernamePassword Blank Fix Program Select",
+  "name": "AI Institution V11.2.6 Photo Fix Compressed Photos Tiny Storage",
   "short_name": "AI Institution",
-  "description": "V11.2.7 exact base + Usthad Add Remove visible + Mobile Bottom Nav App like + Desktop Sidebar + Username Password for Judges Fest Control Fest Manager Main Stage Manager not Parents PTA Management + Blank Black Bad URL hash fix cdn.fbsbx + Program Select fix + Photo compress",
+  "description": "V11.2.6 Photo Fix Compressed photos tiny storage ID Cards A4 8 cards A3 12 cards",
   "start_url": "index.html",
   "display": "standalone",
   "theme_color": "#059669",
-  "background_color": "#ffffff",
+  "background_color": "#f0fdf4",
   "icons": [
     {
       "src": "assets/icon-192.png",
