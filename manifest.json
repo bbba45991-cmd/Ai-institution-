@@ -1,9 +1,10 @@
 {
-  "name": "AI Institution V11.2.6 Photo Fix Compressed Photos Tiny Storage",
+  "name": "AI Institution - Madrasa School College OS",
   "short_name": "AI Institution",
-  "description": "V11.2.6 Photo Fix Compressed photos tiny storage ID Cards A4 8 cards A3 12 cards",
+  "description": "All-in-One Madrasa School College Management with Fest, Quran Tajweed, Attendance, ID Cards",
   "start_url": "index.html",
   "display": "standalone",
+  "orientation": "any",
   "theme_color": "#059669",
   "background_color": "#f0fdf4",
   "icons": [
